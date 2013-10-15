@@ -8,7 +8,7 @@ O desenvolvimento deste jogo consiste na utilização de algoritmos de inteligê
 1. Eliezer Emanuel Bernart (@eliezerb)
 2. Vinicius Mores
 3. Vagner Lucas Gomes
-4. Willian Carpegiani
+4. William Carpeggiani
 
 ##Ambiente
 
